@@ -1,1 +1,1 @@
-# Transformaci-n_Gesti-n_del_Conocimiento
+# Transformacion_Gestion_del_Conocimiento
